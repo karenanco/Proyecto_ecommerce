@@ -1,1 +1,2 @@
 # Proyecto_ecommerce
+Neyen es una plataforma de e-commerce diseñada para ofrecer una experiencia digital minimalista y acogedora en torno al mundo del té. El proyecto se centra en la comercialización de mezclas exclusivas (blends), permitiendo a los usuarios explorar una cuidada selección de productos y gestionar sus compras de forma intuitiva.
